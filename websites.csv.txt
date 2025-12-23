@@ -1,5 +1,5 @@
 URL,DataType
 https://www.scrapethissite.com/pages/simple/,Country
-https://www.scrapethissite.com/pages/simple/,Country
+https://thiswebsitedoesnotexist12345.com/,Country
 https://www.scrapethissite.com/pages/simple/,Country
 https://www.scrapethissite.com/pages/simple/,Country
